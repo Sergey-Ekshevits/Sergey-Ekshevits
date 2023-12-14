@@ -1,4 +1,13 @@
-### Hi there 👋
+### print("Hello, World!") 👋
+
+My name is Sergey, I'm a Python developer with a great desire to learn backend for web applications.
+
+🌱 I’m learning web frameworks Django, DRF, Flask and FastAPI, database PostgreSQL
+🔭 I’m currently working on my own project - online mobile chat based on websockets
+👯 I’m looking to collaborate on any interesting project
+📫 You may reach me by:
+email: sergeiekshevits@yandex.ru or sekshevits@gmail.com
+telegram: @sergevits
 
 <!--
 **Sergey-Ekshevits/Sergey-Ekshevits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
