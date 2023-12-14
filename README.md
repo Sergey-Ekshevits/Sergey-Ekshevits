@@ -2,7 +2,7 @@
 
 My name is Sergey, I'm a Python developer with a great desire to learn backend for web applications.
 
-🌱 I’m learning web frameworks Django, DRF, Flask and FastAPI, database PostgreSQL
+🌱 I’m learning Python and its web frameworks Django, DRF, Flask and FastAPI. I worked with database PostgreSQL, SQLite, Docker/Docker compose, nginx 
 
 🔭 I’m currently working on my own project - online mobile chat based on websockets
 
